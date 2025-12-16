@@ -1,0 +1,1768 @@
+[
+    {
+        "city": "France",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Vietnam",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Spain",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "India",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Kenya",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Philippines",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Finland",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Bangladesh",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "China",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "India",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Ethiopia",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Canada",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "UK",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "New Zealand",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Philippines",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Switzerland",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Poland",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Argentina",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Pakistan",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Iraq",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Chile",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Indonesia",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Vietnam",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Nigeria",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Norway",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Sweden",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Mexico",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "France",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Morocco",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Denmark",
+        "temperature": 16.63,
+        "humidity": 62,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Singapore",
+        "temperature": 25.83,
+        "humidity": 86,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Russia",
+        "temperature": -32.99,
+        "humidity": 97,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Switzerland",
+        "temperature": 0.08,
+        "humidity": 93,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Philippines",
+        "temperature": 26.98,
+        "humidity": 79,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Australia",
+        "temperature": 30.53,
+        "humidity": 18,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ca\u00f1ada",
+        "temperature": 11.3,
+        "humidity": 85,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Iran",
+        "temperature": 8.96,
+        "humidity": 37,
+        "condition": "clear sky"
+    },
+    {
+        "city": "New Zealand",
+        "temperature": 12.12,
+        "humidity": 76,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Spain",
+        "temperature": 11.04,
+        "humidity": 65,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Finland",
+        "temperature": -7.24,
+        "humidity": 86,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Brazil",
+        "temperature": -6.71,
+        "humidity": 90,
+        "condition": "light snow"
+    },
+    {
+        "city": "Colombia",
+        "temperature": 28.59,
+        "humidity": 63,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Norway",
+        "temperature": -15.97,
+        "humidity": 60,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Germany",
+        "temperature": 6.97,
+        "humidity": 92,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Morocco",
+        "temperature": -11.02,
+        "humidity": 78,
+        "condition": "snow"
+    },
+    {
+        "city": "Venezuela",
+        "temperature": 30.24,
+        "humidity": 53,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Peru",
+        "temperature": -7.9,
+        "humidity": 78,
+        "condition": "mist"
+    },
+    {
+        "city": "Japan",
+        "temperature": 4.03,
+        "humidity": 85,
+        "condition": "light rain"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 15.48,
+        "humidity": 60,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Australia",
+        "temperature": 30.53,
+        "humidity": 18,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Belgium",
+        "temperature": -17.33,
+        "humidity": 64,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Sweden",
+        "temperature": 0.11,
+        "humidity": 99,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Argentina",
+        "temperature": 34.33,
+        "humidity": 19,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Innichen",
+        "temperature": -4,
+        "humidity": 86,
+        "condition": "clear sky"
+    },
+    {
+        "city": "China",
+        "temperature": 25.12,
+        "humidity": 59,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Spain",
+        "temperature": 11.04,
+        "humidity": 65,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Turkey",
+        "temperature": 3.21,
+        "humidity": 73,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.52,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "South Africa",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Japan",
+        "temperature": 4.03,
+        "humidity": 85,
+        "condition": "light rain"
+    },
+    {
+        "city": "Chile",
+        "temperature": 20,
+        "humidity": 48,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Egypt",
+        "temperature": -0.94,
+        "humidity": 71,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 26.34,
+        "humidity": 59,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Thailand",
+        "temperature": 23.1,
+        "humidity": 69,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.52,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Mexico",
+        "temperature": 26.84,
+        "humidity": 85,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 15.48,
+        "humidity": 60,
+        "condition": "few clouds"
+    },
+    {
+        "city": "New Zealand",
+        "temperature": 12.12,
+        "humidity": 76,
+        "condition": "clear sky"
+    },
+    {
+        "city": "China",
+        "temperature": 25.12,
+        "humidity": 59,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Usa River",
+        "temperature": 20.75,
+        "humidity": 70,
+        "condition": "light rain"
+    },
+    {
+        "city": "Philippines",
+        "temperature": 26.98,
+        "humidity": 79,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ethiopia",
+        "temperature": 13.39,
+        "humidity": 50,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Turkey",
+        "temperature": 3.21,
+        "humidity": 73,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Pakistan",
+        "temperature": 6.2,
+        "humidity": 25,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Morocco",
+        "temperature": -11.02,
+        "humidity": 78,
+        "condition": "snow"
+    },
+    {
+        "city": "Switzerland",
+        "temperature": 0.08,
+        "humidity": 93,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Poland",
+        "temperature": -3.48,
+        "humidity": 71,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 17.98,
+        "humidity": 96,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.52,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Pakistan",
+        "temperature": 6.2,
+        "humidity": 25,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Portugal",
+        "temperature": 2.94,
+        "humidity": 74,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Ethiopia",
+        "temperature": 13.39,
+        "humidity": 50,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Chile",
+        "temperature": 20,
+        "humidity": 48,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Indonesia",
+        "temperature": 20.65,
+        "humidity": 95,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Brazil",
+        "temperature": -6.71,
+        "humidity": 90,
+        "condition": "light snow"
+    },
+    {
+        "city": "Mexico",
+        "temperature": 26.84,
+        "humidity": 85,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "France",
+        "temperature": 28.99,
+        "humidity": 72,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Argentina",
+        "temperature": 34.33,
+        "humidity": 19,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Germany",
+        "temperature": 6.97,
+        "humidity": 92,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 15.48,
+        "humidity": 60,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 17.98,
+        "humidity": 96,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Singapore",
+        "temperature": 25.83,
+        "humidity": 86,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "UK",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Sweden",
+        "temperature": 0.11,
+        "humidity": 99,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Austria",
+        "temperature": -1.31,
+        "humidity": 83,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Nigeria",
+        "temperature": 29.08,
+        "humidity": 22,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Venezuela",
+        "temperature": 30.24,
+        "humidity": 53,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Philippines",
+        "temperature": 26.98,
+        "humidity": 79,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Finland",
+        "temperature": -7.24,
+        "humidity": 86,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Australia",
+        "temperature": 30.53,
+        "humidity": 18,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Belgium",
+        "temperature": -17.33,
+        "humidity": 64,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "China",
+        "temperature": 25.12,
+        "humidity": 59,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Innichen",
+        "temperature": -4,
+        "humidity": 86,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Italy",
+        "temperature": 14.23,
+        "humidity": 67,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Peru",
+        "temperature": -7.9,
+        "humidity": 78,
+        "condition": "mist"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 26.34,
+        "humidity": 59,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Colombia",
+        "temperature": 28.59,
+        "humidity": 63,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Russia",
+        "temperature": -32.99,
+        "humidity": 97,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Japan",
+        "temperature": 4.03,
+        "humidity": 85,
+        "condition": "light rain"
+    },
+    {
+        "city": "Egypt",
+        "temperature": -0.94,
+        "humidity": 71,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Netherlands",
+        "temperature": 5.77,
+        "humidity": 90,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Iran",
+        "temperature": 8.96,
+        "humidity": 37,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Bangladesh",
+        "temperature": 19.9,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Turkey",
+        "temperature": 3.21,
+        "humidity": 73,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Thailand",
+        "temperature": 23.1,
+        "humidity": 69,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ukraine",
+        "temperature": -1.17,
+        "humidity": 54,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Usa River",
+        "temperature": 20.75,
+        "humidity": 70,
+        "condition": "light rain"
+    },
+    {
+        "city": "Denmark",
+        "temperature": 16.63,
+        "humidity": 62,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Spain",
+        "temperature": 11.04,
+        "humidity": 65,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "New Zealand",
+        "temperature": 12.12,
+        "humidity": 76,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Poland",
+        "temperature": -3.48,
+        "humidity": 71,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Israel",
+        "temperature": 16.01,
+        "humidity": 70,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Switzerland",
+        "temperature": 0.08,
+        "humidity": 93,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Ca\u00f1ada",
+        "temperature": 11.3,
+        "humidity": 85,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Morocco",
+        "temperature": -11.02,
+        "humidity": 78,
+        "condition": "snow"
+    },
+    {
+        "city": "South Africa",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Norway",
+        "temperature": -15.97,
+        "humidity": 60,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Colombia",
+        "temperature": 28.59,
+        "humidity": 63,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Bangladesh",
+        "temperature": 19.9,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Netherlands",
+        "temperature": 5.77,
+        "humidity": 90,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Iran",
+        "temperature": 8.96,
+        "humidity": 37,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Chile",
+        "temperature": 20,
+        "humidity": 48,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Argentina",
+        "temperature": 34.33,
+        "humidity": 19,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Egypt",
+        "temperature": -0.94,
+        "humidity": 71,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.52,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Ukraine",
+        "temperature": -1.17,
+        "humidity": 54,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Singapore",
+        "temperature": 25.83,
+        "humidity": 86,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Philippines",
+        "temperature": 26.98,
+        "humidity": 79,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Japan",
+        "temperature": 4.03,
+        "humidity": 85,
+        "condition": "light rain"
+    },
+    {
+        "city": "Finland",
+        "temperature": -7.24,
+        "humidity": 86,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ethiopia",
+        "temperature": 13.39,
+        "humidity": 50,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Peru",
+        "temperature": -7.9,
+        "humidity": 78,
+        "condition": "mist"
+    },
+    {
+        "city": "Israel",
+        "temperature": 16.01,
+        "humidity": 70,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Denmark",
+        "temperature": 16.63,
+        "humidity": 62,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Turkey",
+        "temperature": 3.21,
+        "humidity": 73,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Morocco",
+        "temperature": -11.02,
+        "humidity": 78,
+        "condition": "snow"
+    },
+    {
+        "city": "Russia",
+        "temperature": -32.99,
+        "humidity": 97,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Pakistan",
+        "temperature": 6.2,
+        "humidity": 25,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Poland",
+        "temperature": -3.48,
+        "humidity": 71,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Mexico",
+        "temperature": 26.84,
+        "humidity": 85,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Australia",
+        "temperature": 30.53,
+        "humidity": 18,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Italy",
+        "temperature": 14.23,
+        "humidity": 67,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Innichen",
+        "temperature": -4,
+        "humidity": 86,
+        "condition": "clear sky"
+    },
+    {
+        "city": "France",
+        "temperature": 28.99,
+        "humidity": 72,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Sweden",
+        "temperature": 0.11,
+        "humidity": 99,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Belgium",
+        "temperature": -17.33,
+        "humidity": 64,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Portugal",
+        "temperature": 2.94,
+        "humidity": 74,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Germany",
+        "temperature": 6.97,
+        "humidity": 92,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Norway",
+        "temperature": -15.97,
+        "humidity": 60,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Spain",
+        "temperature": 11.04,
+        "humidity": 65,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Nigeria",
+        "temperature": 29.08,
+        "humidity": 22,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Brazil",
+        "temperature": -6.71,
+        "humidity": 90,
+        "condition": "light snow"
+    },
+    {
+        "city": "Thailand",
+        "temperature": 23.1,
+        "humidity": 69,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ca\u00f1ada",
+        "temperature": 11.3,
+        "humidity": 85,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 17.98,
+        "humidity": 96,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "New Zealand",
+        "temperature": 12.12,
+        "humidity": 76,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Austria",
+        "temperature": -1.31,
+        "humidity": 83,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Venezuela",
+        "temperature": 30.24,
+        "humidity": 53,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Usa River",
+        "temperature": 20.75,
+        "humidity": 70,
+        "condition": "light rain"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 26.34,
+        "humidity": 59,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "UK",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "China",
+        "temperature": 25.12,
+        "humidity": 59,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 15.48,
+        "humidity": 60,
+        "condition": "few clouds"
+    },
+    {
+        "city": "South Africa",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Switzerland",
+        "temperature": 0.08,
+        "humidity": 93,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Indonesia",
+        "temperature": 20.65,
+        "humidity": 95,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Nigeria",
+        "temperature": 29.08,
+        "humidity": 22,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Egypt",
+        "temperature": -0.94,
+        "humidity": 71,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Philippines",
+        "temperature": 26.98,
+        "humidity": 79,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Germany",
+        "temperature": 6.97,
+        "humidity": 92,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Innichen",
+        "temperature": -4,
+        "humidity": 86,
+        "condition": "clear sky"
+    },
+    {
+        "city": "New Zealand",
+        "temperature": 12.12,
+        "humidity": 76,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Spain",
+        "temperature": 11.04,
+        "humidity": 65,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "South Africa",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Pakistan",
+        "temperature": 6.2,
+        "humidity": 25,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Argentina",
+        "temperature": 34.33,
+        "humidity": 19,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Singapore",
+        "temperature": 25.83,
+        "humidity": 86,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "UK",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Italy",
+        "temperature": 14.23,
+        "humidity": 67,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Mexico",
+        "temperature": 26.84,
+        "humidity": 85,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Ukraine",
+        "temperature": -1.17,
+        "humidity": 54,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Colombia",
+        "temperature": 28.59,
+        "humidity": 63,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Ca\u00f1ada",
+        "temperature": 11.3,
+        "humidity": 85,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Australia",
+        "temperature": 30.53,
+        "humidity": 18,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Indonesia",
+        "temperature": 20.65,
+        "humidity": 95,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Israel",
+        "temperature": 16.01,
+        "humidity": 70,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Bangladesh",
+        "temperature": 19.9,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Morocco",
+        "temperature": -11.02,
+        "humidity": 78,
+        "condition": "snow"
+    },
+    {
+        "city": "Poland",
+        "temperature": -3.48,
+        "humidity": 71,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Russia",
+        "temperature": -32.99,
+        "humidity": 97,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "China",
+        "temperature": 25.12,
+        "humidity": 59,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Austria",
+        "temperature": -1.31,
+        "humidity": 83,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Sweden",
+        "temperature": 0.11,
+        "humidity": 99,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Norway",
+        "temperature": -15.97,
+        "humidity": 60,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Netherlands",
+        "temperature": 5.77,
+        "humidity": 90,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Usa River",
+        "temperature": 20.75,
+        "humidity": 70,
+        "condition": "light rain"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 26.34,
+        "humidity": 59,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Switzerland",
+        "temperature": 0.08,
+        "humidity": 93,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Portugal",
+        "temperature": 2.94,
+        "humidity": 74,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "France",
+        "temperature": 28.99,
+        "humidity": 72,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Finland",
+        "temperature": -7.24,
+        "humidity": 86,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.52,
+        "humidity": 43,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Iran",
+        "temperature": 8.96,
+        "humidity": 37,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 17.98,
+        "humidity": 96,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Japan",
+        "temperature": 4.03,
+        "humidity": 85,
+        "condition": "light rain"
+    },
+    {
+        "city": "Belgium",
+        "temperature": -17.33,
+        "humidity": 64,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Turkey",
+        "temperature": 3.21,
+        "humidity": 73,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ethiopia",
+        "temperature": 13.39,
+        "humidity": 50,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Thailand",
+        "temperature": 23.1,
+        "humidity": 69,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Venezuela",
+        "temperature": 30.24,
+        "humidity": 53,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Peru",
+        "temperature": -7.9,
+        "humidity": 78,
+        "condition": "mist"
+    },
+    {
+        "city": "Brazil",
+        "temperature": -6.71,
+        "humidity": 90,
+        "condition": "light snow"
+    },
+    {
+        "city": "Chile",
+        "temperature": 20,
+        "humidity": 48,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 15.48,
+        "humidity": 60,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Denmark",
+        "temperature": 16.63,
+        "humidity": 62,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Brazil",
+        "temperature": -7.04,
+        "humidity": 87,
+        "condition": "heavy snow"
+    },
+    {
+        "city": "Thailand",
+        "temperature": 22.11,
+        "humidity": 71,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 15.27,
+        "humidity": 60,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 16.98,
+        "humidity": 95,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 25.13,
+        "humidity": 67,
+        "condition": "light rain"
+    },
+    {
+        "city": "Innichen",
+        "temperature": -2.25,
+        "humidity": 87,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Sweden",
+        "temperature": -0.32,
+        "humidity": 97,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "South Africa",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.7,
+        "humidity": 55,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Japan",
+        "temperature": 3.92,
+        "humidity": 91,
+        "condition": "light rain"
+    },
+    {
+        "city": "Philippines",
+        "temperature": 26.55,
+        "humidity": 81,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "UK",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Mexico",
+        "temperature": 25.84,
+        "humidity": 85,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Switzerland",
+        "temperature": -0.55,
+        "humidity": 94,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Singapore",
+        "temperature": 25.83,
+        "humidity": 89,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Ca\u00f1ada",
+        "temperature": 10.74,
+        "humidity": 93,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Peru",
+        "temperature": -8.95,
+        "humidity": 86,
+        "condition": "mist"
+    },
+    {
+        "city": "Australia",
+        "temperature": 30.26,
+        "humidity": 18,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Germany",
+        "temperature": 6.97,
+        "humidity": 94,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Morocco",
+        "temperature": -12.03,
+        "humidity": 83,
+        "condition": "snow"
+    },
+    {
+        "city": "Chile",
+        "temperature": 19,
+        "humidity": 47,
+        "condition": "clear sky"
+    },
+    {
+        "city": "China",
+        "temperature": 26.45,
+        "humidity": 53,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Argentina",
+        "temperature": 34.9,
+        "humidity": 18,
+        "condition": "few clouds"
+    },
+    {
+        "city": "Italy",
+        "temperature": 14.69,
+        "humidity": 64,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Egypt",
+        "temperature": 0.29,
+        "humidity": 71,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Bangladesh",
+        "temperature": 19.22,
+        "humidity": 50,
+        "condition": "clear sky"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Spain",
+        "temperature": 11.4,
+        "humidity": 64,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Israel",
+        "temperature": 15.6,
+        "humidity": 72,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Ukraine",
+        "temperature": -1.4,
+        "humidity": 53,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Turkey",
+        "temperature": 2.62,
+        "humidity": 81,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Usa River",
+        "temperature": 19.96,
+        "humidity": 76,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Finland",
+        "temperature": -7.41,
+        "humidity": 86,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Nigeria",
+        "temperature": 26.5,
+        "humidity": 25,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Norway",
+        "temperature": -14.88,
+        "humidity": 57,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Colombia",
+        "temperature": 28.45,
+        "humidity": 58,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Indonesia",
+        "temperature": 20.4,
+        "humidity": 92,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ethiopia",
+        "temperature": 12.81,
+        "humidity": 52,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Netherlands",
+        "temperature": 4.21,
+        "humidity": 92,
+        "condition": "clear sky"
+    },
+    {
+        "city": "France",
+        "temperature": 27.99,
+        "humidity": 77,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Finland",
+        "temperature": 0.12,
+        "humidity": 99,
+        "condition": "light snow"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 11.88,
+        "humidity": 48,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 14.98,
+        "humidity": 99,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Chile",
+        "temperature": 17,
+        "humidity": 27,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Iran",
+        "temperature": 7.61,
+        "humidity": 73,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 27.27,
+        "humidity": 54,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Turkey",
+        "temperature": -0.4,
+        "humidity": 92,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Indonesia",
+        "temperature": 21.19,
+        "humidity": 90,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Brazil",
+        "temperature": 2.84,
+        "humidity": 65,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Pakistan",
+        "temperature": 8.59,
+        "humidity": 31,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Thailand",
+        "temperature": 18.85,
+        "humidity": 76,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Kenya",
+        "temperature": 27.27,
+        "humidity": 54,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Chile",
+        "temperature": 17,
+        "humidity": 27,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Innichen",
+        "temperature": -0.56,
+        "humidity": 84,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Belgium",
+        "temperature": 1.12,
+        "humidity": 63,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Australia",
+        "temperature": 24.83,
+        "humidity": 16,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Ca\u00f1ada",
+        "temperature": 8.52,
+        "humidity": 96,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Turkey",
+        "temperature": -0.4,
+        "humidity": 92,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Portugal",
+        "temperature": 11.96,
+        "humidity": 75,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Saudi Arabia",
+        "temperature": 16.36,
+        "humidity": 40,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Singapore",
+        "temperature": 24.37,
+        "humidity": 98,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "South Korea",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Ethiopia",
+        "temperature": 13.78,
+        "humidity": 73,
+        "condition": "light rain"
+    },
+    {
+        "city": "South Africa",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "New Zealand",
+        "temperature": 11.13,
+        "humidity": 76,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Denmark",
+        "temperature": 12.79,
+        "humidity": 21,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Austria",
+        "temperature": -0.93,
+        "humidity": 84,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Netherlands",
+        "temperature": 9.04,
+        "humidity": 83,
+        "condition": "light rain"
+    },
+    {
+        "city": "Brazil",
+        "temperature": 2.84,
+        "humidity": 65,
+        "condition": "clear sky"
+    },
+    {
+        "city": "Mexico",
+        "temperature": 25.39,
+        "humidity": 86,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Ukraine",
+        "temperature": 3.57,
+        "humidity": 92,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "China",
+        "temperature": 17.05,
+        "humidity": 68,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Venezuela",
+        "temperature": 33.54,
+        "humidity": 40,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Israel",
+        "temperature": 12.42,
+        "humidity": 65,
+        "condition": "clear sky"
+    },
+    {
+        "city": "France",
+        "temperature": 27.99,
+        "humidity": 78,
+        "condition": "scattered clouds"
+    },
+    {
+        "city": "Iraq",
+        "temperature": 11.88,
+        "humidity": 48,
+        "condition": "overcast clouds"
+    },
+    {
+        "city": "Vietnam",
+        "temperature": 14.98,
+        "humidity": 99,
+        "condition": "broken clouds"
+    },
+    {
+        "city": "Egypt",
+        "temperature": -1.68,
+        "humidity": 55,
+        "condition": "clear sky"
+    },
+    {
+        "city": "UK",
+        "error": "Unable to fetch weather data"
+    },
+    {
+        "city": "Germany",
+        "temperature": 5.02,
+        "humidity": 72,
+        "condition": "broken clouds"
+    }
+]
