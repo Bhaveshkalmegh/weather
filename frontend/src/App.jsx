@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import "./App.css"; // we'll add dark theme styles here
-import { Line } from "react-chartjs-2"; // chart for visualization
+import "./App.css";
+import { Line } from "react-chartjs-2";
 import {
   Chart as ChartJS,
   LineElement,
@@ -18,25 +18,47 @@ function App() {
   const [weatherData, setWeatherData] = useState([]);
 
   useEffect(() => {
-    document.title = "Fast Forecast"; // ✅ set page title
+    document.title = "Fast Forecast";
   }, []);
 
   const fetchWeather = async () => {
-    setWeatherData([]); // reset
-    const response = await fetch(`http://127.0.0.1:8000/weather_random/${count}`);
-    const data = await response.json();
-    setWeatherData(data);
+    try {
+      setWeatherData([]);
+
+      // ✅ clear history first
+      const clearRes = await fetch("http://127.0.0.1:8000/history/1/clear", {
+        method: "POST",
+      });
+
+      if (!clearRes.ok) {
+        throw new Error("Failed to clear history");
+      }
+
+      console.log("History cleared");
+
+      // ✅ fetch weather
+      const response = await fetch(
+        `http://127.0.0.1:8000/weather_random/${count}`
+      );
+
+      const data = await response.json();
+      setWeatherData(data);
+
+    } catch (err) {
+      console.error(err);
+      alert("Error occurred. Check backend.");
+    }
   };
 
-  // Chart data (temperature trend)
   const chartData = {
     labels: weatherData.map((w) => w.city),
     datasets: [
       {
         label: "Temperature (°C)",
+
         data: weatherData.map((w) => w.temperature),
-        borderColor: "#4ade80",
-        backgroundColor: "#22c55e",
+        borderColor: "green",      // 👈 line color
+        backgroundColor: "rgba(0, 128, 0, 0.2)",
         tension: 0.3,
       },
     ],
@@ -44,51 +66,36 @@ function App() {
 
   return (
     <div className="app">
-      {/* Navbar */}
       <nav className="navbar">
         <h1>🌌 Fast Forecast</h1>
       </nav>
 
-      {/* Input Section */}
       <div className="input-section">
         <input
           type="number"
           value={count}
-          onChange={(e) => setCount(e.target.value)}
+          onChange={(e) => setCount(Number(e.target.value))}
           placeholder="Enter a number under 50"
         />
         <button onClick={fetchWeather}>Get Weather</button>
       </div>
 
-      {/* Weather Cards */}
       <div className="cards">
         {weatherData.map((w, i) => (
           <div key={i} className="card">
             <h3>{w.city}</h3>
-            {w.error ? (
-              <p>{w.error}</p>
-            ) : (
-              <>
-                <p>🌡 {w.temperature}°C</p>
-                <p>💧 {w.humidity}%</p>
-                <p>☁ {w.condition}</p>
-              </>
-            )}
+            <p>🌡 {w.temperature}°C</p>
+            <p>💧 {w.humidity}%</p>
+            <p>☁ {w.condition}</p>
           </div>
         ))}
       </div>
 
-      {/* Chart */}
       {weatherData.length > 0 && (
         <div className="chart-container">
           <Line data={chartData} />
         </div>
       )}
-
-      {/* Footer */}
-      <footer className="footer">
-        <p>© 2025 Fast Forecast | Powered by OpenWeatherMap</p>
-      </footer>
     </div>
   );
 }
