@@ -14,20 +14,15 @@ from bson import ObjectId
 app = FastAPI()
 
 # MongoDB connection
-client = AsyncIOMotorClient("monoodb_uri")
+client = AsyncIOMotorClient("mongodb://localhost:27017")
 db = client["db_fast_forecase"]
 collection = db["GenerateData"]
-
-
-
-
-
 
 
 # CORS (IMPORTANT for frontend fetch)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["*"],
     allow_methods=["*"],
     allow_headers=["*"],
 )
